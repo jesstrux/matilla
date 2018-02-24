@@ -72,21 +72,6 @@ table {
 }
 
 @font-face {
-    font-family: "Plump";
-    src: url("../fonts/Plump.ttf");
-}
-
-@font-face {
-    font-family: "SemiBold";
-    src: url("../fonts/SemiBold.ttf");
-}
-
-@font-face {
-    font-family: "Light";
-    src: url("../fonts/Light.ttf");
-}
-
-@font-face {
     font-family: "Regular";
     src: url("../fonts/Regular.ttf");
 }
@@ -94,4 +79,9 @@ table {
 @font-face {
     font-family: "Bold";
     src: url("../fonts/Bold.ttf");
+}
+
+@font-face {
+    font-family: "SemiBold";
+    src: url("../fonts/SemiBold.ttf");
 }
